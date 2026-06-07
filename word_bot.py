@@ -6,7 +6,7 @@ from datetime import datetime, time
 import pytz
 from telegram.ext import Application, CommandHandler, ContextTypes
 
-BOT_TOKEN = "TOKEN_BATE_JADID"  # توکن بات جدید از BotFather
+BOT_TOKEN = "8976114188:AAHw8JHit9lxEBkFPHKX6Wo46hiXaDWi1qs"  # توکن بات جدید از BotFather
 CHAT_ID = "200322275"
 NEWS_API_KEY = "fdcb19e4121e495c82c7f75a90424d84"
 
